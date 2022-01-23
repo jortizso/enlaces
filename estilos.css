@@ -1,0 +1,46 @@
+body {
+    background: url(fondo.gif), url(https://c.tenor.com/eeEA_cEAEbQAAAAM/stars-star.gif), rgb(1, 0, 75)
+}
+
+header {
+    margin: auto;
+    width: 50vh;
+    background: rgba(0, 0, 0, 0.597); 
+}
+
+h1 {
+    padding: 3vh;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Oooh Baby', cursive;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+b {
+    font-size: 20px;
+}
+article {
+    text-align: center;
+    padding: 3vh;
+    width: 43vh;
+    min-height: 40vh;
+    max-height: 60vh;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.597);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+button {
+    width: 30vh;
+    padding: 20px;
+    font-size: 20px;
+    background: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+}
+
+i {
+    font-size: 25px;
+}
